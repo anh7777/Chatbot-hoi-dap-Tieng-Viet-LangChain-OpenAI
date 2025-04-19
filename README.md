@@ -1,1 +1,1 @@
-# -Chatbot-h-i-p-ti-ng-Vi-t-v-i-LangChain-OpenAI
+#  Chatbot hỏi đáp tiếng Việt với LangChain + OpenAI
